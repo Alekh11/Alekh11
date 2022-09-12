@@ -1,4 +1,4 @@
-- 🍸 Hello there, I’m @Alekh11
+- 🍸 Hello there, I’m Alekh.
 - 📝 I upload stuff here
 - 📌 computer science major
 
