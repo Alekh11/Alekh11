@@ -1,4 +1,4 @@
-- 🍸 Hello there, i'm Alekh!
+- 🍸 Hello, I'm Alekh!
 - 📌 computer science major
 
 
