@@ -1,5 +1,5 @@
-> - 🍸 Hello, I'm Alekh!
-> - 📌 computer science major
+> -  Hello, I'm Alekh!
+> - computer science major
 
 
 
